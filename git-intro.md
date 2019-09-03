@@ -1,3 +1,5 @@
+https://raw.githubusercontent.com/codeupclassroom/git-intro/master/README.md
+
 Intro to Git
 ------------
 
